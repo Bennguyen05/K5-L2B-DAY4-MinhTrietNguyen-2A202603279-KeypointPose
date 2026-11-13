@@ -215,4 +215,4 @@ Kết quả: ĐẠT (đọc lại từng cảnh báo ở trên)
 
 ## 9. Tài liệu tham khảo và công cụ AI đã dùng
 
-...
+Dùng claude để hỗ trợ viết báo cáo
